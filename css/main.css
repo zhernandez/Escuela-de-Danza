@@ -1,0 +1,131 @@
+.cabeza{
+	background: url(../img/dance_1.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 750px;
+	width:100%;
+}
+.bg-white{
+	background: #fff
+}
+.titulo{
+	margin-top: 40px;
+}
+.may{
+	text-transform: uppercase;
+}
+.menu{
+	float: left;
+	margin: 25px;
+}
+.top{
+	font-size: 50px;
+	margin-top: 60px;
+}
+.top-inf{
+	margin-top: 30px;
+	margin-right: 50px;
+}
+.btn{
+	padding: 15px 30px;
+	margin: 40px 120px 40px 40px;
+    background-color: #020D21
+}
+.cuadros{
+	background: url(../img/textura_2.jpg);
+	background-position: center;
+	background-repeat: repeat;
+	height: auto;
+	width:100%;
+}
+.ju{
+	font-size: 20px;
+	margin: 80px;
+	margin-bottom: -20px
+}
+.deco{
+	margin: -10px;
+    width:200px;
+    height: auto;
+    margin-left: 40%
+}
+.btn2{
+	background-color: #031941;
+	padding: 20px;
+	margin: -20px 300px 63px; 
+	border-radius: 5px;
+}
+#salto{
+	background: url(../img/instructor_4.jpg);
+    background-repeat: no-repeat;
+	background-position: center;
+    background-size: 100%;
+	height:350px;
+	border: solid 2px  #031941;
+}
+#pose{
+	background: url(../img/profesor_9.jpg);
+    background-repeat: no-repeat;
+	background-position: center;
+    background-size: 100%;
+	height:350px;
+	border: solid 2px #031941; 
+}
+.btn3{
+	background-color: #031941;
+	position: absolute;
+	left:450px;
+	top:1190px;
+	padding:20px 140px;
+}
+.poe{
+	font-size: 30px;
+	font-weight: bold;
+	font-style: italic;
+	margin-bottom: 90px;
+}
+.azl{
+	background-color: #031941;
+}
+.dir{
+	margin: 100px
+}
+.cn{
+	margin: 30px 0px 5px;
+}
+.map{
+	margin: 50px;
+}
+.puntas{
+	background: url(../img/shoes_1.jpg);
+	background-position: right center;
+	background-repeat: no-repeat;
+	height:500px;
+	width: 100%
+}
+.for{
+	margin: 70px 10px 50px;
+	color: #08336F;
+	font-size: 30px;
+	font-weight: bold;
+}
+.barra{
+	border: solid 1px #bbb;
+	width: 500px;
+	margin: 10px;
+	padding: 10px
+}
+.lineal{
+	display: inline-block;
+}
+.blq{
+	margin-bottom: 70px
+}
+.env{
+	background: #08336F;
+	padding: 20px;
+    width: 500px;
+    margin:10px;
+    font-weight: bold;
+}
