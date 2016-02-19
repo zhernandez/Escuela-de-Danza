@@ -1,1 +1,115 @@
-/* Inserta tu codigo aqui */
+.bg-white{
+	background: #fff
+}
+.titulo{
+	margin-top: 40px;
+}
+.may{
+	text-transform: uppercase;
+}
+.menu{
+	float: left;
+	margin: 25px;
+}
+.top{
+	font-size: 50px;
+	margin-top: 60px;
+}
+.top-inf{
+	margin-top: 30px;
+	margin-right: 50px;
+}
+.fongr{
+	background: url(../img/old_wall.png);
+	background-position: center;
+	background-repeat: repeat;
+	height: auto;
+	width:100%;
+}
+.may{
+	text-transform: uppercase;
+}
+.ofclas{
+	font-weight: bold;
+	margin: 50px 0px;
+}
+.cartel{
+   width: 300px;
+   height: 500px;
+   margin:20px;
+}
+.ballet{
+	background: url(../img/dance_12.jpg);
+	background-position: center top;
+	height: 500px
+}
+.modern{
+	background: url(../img/breakdance.jpg);
+	background-position: center top;
+	height: 500px
+}
+.jazz{
+	background: url(../img/lirical-jazz.jpg);
+	background-position: center top;
+	height: 500px
+}
+.belly{
+	background: url(../img/arabe.jpg);
+	background-position: center top;
+	height: 500px
+}
+.kids{
+	background: url(../img/little.jpg);
+	background-position: center top;
+	height: 500px
+}
+.yoga{
+	background: url(../img/yoga.jpg);
+	background-position: center top;
+	height: 500px
+}
+.cristal{
+	background-color: rgba(0, 0, 0, 0.6);
+	margin: 40px;
+}
+.dwn{
+	margin-bottom: 80px;
+}
+.puntas{
+	background: url(../img/shoes_1.jpg);
+	background-position: right center;
+	background-repeat: no-repeat;
+	height:500px;
+	width: 100%
+}
+.for{
+	margin: 70px 10px 50px;
+	color: #052655;
+	font-size: 30px;
+	font-weight: bold;
+}
+.barra{
+	border: solid 1px #bbb;
+	width: 500px;
+	margin: 10px;
+	padding: 10px
+}
+.lineal{
+	display: inline-block;
+}
+.blq{
+	margin-bottom: 70px
+}
+.env{
+	background: #052655;
+	padding: 20px;
+    width: 500px;
+    margin:10px;
+    font-weight: bold;
+}
+footer{
+	background: #05224A;
+}
+.pie{
+     margin: 40px 0px 20px;
+}
