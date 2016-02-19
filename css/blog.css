@@ -1,1 +1,70 @@
-/* Inserta tu codigo aqui */
+.bg-white{
+	background: #fff
+}
+.titulo{
+	margin-top: 40px;
+}
+.may{
+	text-transform: uppercase;
+}
+.menu{
+	float: left;
+	margin: 25px;
+}
+.grunge{
+	background: url(../img/textura_1.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: auto;
+	width:100%;
+}
+.brgr{
+	background: url(../img/grunge_wall.jpg);
+	background-position: right center;
+	background-repeat: no-repeat;
+	height:200px;
+	width: 100%
+}
+.cuadro{
+	width: 200px;
+	height: 200px;
+}
+.puntas{
+	background: url(../img/shoes_1.jpg);
+	background-position: right center;
+	background-repeat: no-repeat;
+	height:500px;
+	width: 100%
+}
+.for{
+	margin: 70px 10px 50px;
+	color: #052655;
+	font-size: 30px;
+	font-weight: bold;
+}
+.barra{
+	border: solid 1px #bbb;
+	width: 500px;
+	margin: 10px;
+	padding: 10px
+}
+.lineal{
+	display: inline-block;
+}
+.blq{
+	margin-bottom: 70px
+}
+.env{
+	background: #052655;
+	padding: 20px;
+    width: 500px;
+    margin:10px;
+    font-weight: bold;
+}
+footer{
+	background: #05224A;
+}
+.pie{
+     margin: 40px 0px 20px;
+}/* Inserta tu codigo aqui */
