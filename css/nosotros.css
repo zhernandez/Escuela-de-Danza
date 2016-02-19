@@ -1,1 +1,152 @@
-/* Inserta tu codigo aqui */
+.cabeza{
+	background: url(../img/dance_7.jpg);
+	background-position: left center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 700px;
+	width:100%;
+}
+.bg-white{
+	background: #fff
+}
+.titulo{
+	margin-top: 40px;
+}
+.may{
+	text-transform: uppercase;
+}
+.menu{
+	float: left;
+	margin: 25px;
+}
+.trans{
+	background-color: rgba(0, 0, 0, 0.3);
+	margin: 70px 0px;
+	padding: 50px; 
+	margin-bottom: 100px;
+}
+.nos{
+	margin: 20px;
+}
+.cubos{
+	background: url(../img/cubes.png);
+	background-position: center;
+	background-repeat: repeat;
+	height: auto;
+	width:100%;
+}
+.pl{
+	margin-bottom: 50px
+}
+.pilar{
+	margin: 20px;
+	padding:20px;
+}
+.sub{
+	border-bottom: solid gray 2px;
+}
+.prf{
+	margin: 200px 20px 0px;
+	font-weight: bold;
+}
+.cuadro{
+	margin-bottom: 30px;
+	margin-top: 70px;
+	width:200px;
+	height:180px;
+}
+.rudo{
+	background: url(../img/profesor_4.jpg);
+	background-position: center top;
+	height: 180px;
+	width:200px;
+}
+.ema{
+	background: url(../img/profesor_11.jpg);
+	background-position: center top;
+	height: 180px;
+	width:200px;
+}
+.adam{
+	background: url(../img/profesor_14.jpg);
+	background-position: center top;
+	height: 180px;
+	width:200px;
+}
+.sam{
+	background: url(../img/profesor_12.jpg);
+	background-position: center top;
+	height: 180px;
+	width:200px;
+}
+.ian{
+	background: url(../img/profesor_1.jpg);
+	background-position: center top;
+	height: 180px;
+	width:200px;
+}
+.kim{
+	background: url(../img/profesor_9.jpg);
+	background-position: center top;
+	height: 180px;
+	width:200px;
+}
+.kali{
+	background: url(../img/profesor_10.jpg);
+	background-position: center top;
+	height: 180px;
+	width:200px;
+}
+.mag{
+	background: url(../img/profesor_15.jpg);
+	background-position: center top;
+	height: 180px;
+	width:200px;
+}
+.dwn{
+	margin-bottom: 80px;
+}
+.fins{
+	font-size: 40px;
+	font-weight: bold;
+	font-style: italic;
+	margin:100px 0px;
+}
+.puntas{
+	background: url(../img/shoes_1.jpg);
+	background-position: right center;
+	background-repeat: no-repeat;
+	height:500px;
+	width: 100%
+}
+.for{
+	margin: 70px 10px 50px;
+	color: #052655;
+	font-size: 30px;
+	font-weight: bold;
+}
+.barra{
+	border: solid 1px #bbb;
+	width: 500px;
+	margin: 10px;
+	padding: 10px
+}
+.lineal{
+	display: inline-block;
+}
+.blq{
+	margin-bottom: 70px
+}
+.env{
+	background: #052655;
+	padding: 20px;
+    width: 500px;
+    margin:10px;
+    font-weight: bold;
+}
+footer{
+	background: #05224A;
+}
+.pie{
+     margin: 40px 0px 20px;
+}
