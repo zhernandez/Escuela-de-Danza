@@ -38,7 +38,15 @@
 	background: #aaa;
 	width:700px;
 	height:200px;
-	margin-bottom: 40px
+	margin-bottom: 40px;
+	padding:15px;
+}
+.btn{
+	background: #052655;
+	width: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	margin-top:20px;
 }
 .puntas{
 	background: url(../img/shoes_1.jpg);
