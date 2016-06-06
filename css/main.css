@@ -67,7 +67,7 @@
 #pose{
 	background: url(../img/profesor_9.jpg);
     background-repeat: no-repeat;
-	background-position: center;
+	background-position:center center;
     background-size: 100%;
 	height:350px;
 	border: solid 2px #031941; 
@@ -76,7 +76,7 @@
 	background-color: #031941;
 	position: absolute;
 	left:450px;
-	top:1190px;
+	top:1191px;
 	padding:20px 140px;
 }
 .poe{
